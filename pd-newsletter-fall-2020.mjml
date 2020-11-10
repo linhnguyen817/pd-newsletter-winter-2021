@@ -1,0 +1,152 @@
+<mjml>
+  <mj-head>
+      <mj-title>Positive Deviance Winter 2020</mj-title>
+      <mj-preview>Celebrate the 30th Anniversary of Positive Deviance</mj-preview>
+      <mj-attributes>
+        <!-- <mj-text padding-bottom="0" /> -->
+        <mj-class name="green" color="#7bb44c" />
+        <mj-class name="h1" font-size="20px" />
+        <mj-class name="h2" font-size="16px" />
+        <mj-all font-family="Lato, Helvetica, Arial, sans-serif" line-height="1.2" />
+      </mj-attributes>
+    </mj-head>
+
+  <mj-body>
+    <!-- Alert Text Banner -->
+    <mj-section background-color="#ECECEC">
+      <mj-column>
+        <mj-text mj-class="green" align="center" padding="0px 20px">
+          RSVP for the Positive Deviance 30th Anniversary Virtual Celebration Event!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#7bb44c" padding="10px 0px">
+      <!-- PD Logo -->
+      <mj-column width="300px">
+        <mj-image padding-top="0" href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5ee8249f8e3835315ae1d78a/1594567270209/?format=1500w" alt="PD Logo" padding-bottom="0px" padding-top="10px"></mj-image>
+      </mj-column>
+      
+      <!-- Navigation Bar -->
+      <mj-column>
+        <mj-navbar base-url="https://positivedeviance.org" hamburger="none" ico-color="#ffffff">
+            <mj-navbar-link href="/news-1" color="#ffffff" font-size="11px" padding-top="18px">News</mj-navbar-link>
+            <mj-navbar-link href="/all-projects" color="#ffffff" font-size="11px">Projects</mj-navbar-link>
+            <mj-navbar-link href="/contact-us" color="#ffffff" font-size="11px">Connect</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+
+    <!-- Opening -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa309c6f08616716ef1887/1604989084234/PDWorld+Map+1.png" alt="PD 30th Anniversary Logo"></mj-image>
+            <mj-text align="center">
+              <span href="https://positivedeviance.org" style="color:#7bb44c;font-size:16px;font-weight:bold">Fall 2020 Newsletter</span>
+              <br><br>
+              <i>CELEBRATING 30 YEARS OF SHARING AND SPREADING POSITIVE DEVIANCE</i>
+            </mj-text>
+            <mj-text>
+              Dear Positive Deviance fans,
+              <br><br>
+              In this period of unprecedented events from the Covid-19 pandemic to climate upheaval, we decided it was appropriate to look at the positive side of our humanity collective endeavor to erase disparities, embrace diversity and address the complex problems of our time by looking at what is working against the odds. The Positive Deviance approach does that in a powerful way.
+              <br><br>
+              We are celebrating 30 years of Positive Deviance starting in December. You will find in this newsletter more details on the <a href="https://positivedeviance.org" style="color:#7bb44c; text-decoration:none">announcement and invitation</a> to a __ month virtual celebration with different ways you can participate in this event.
+              <br><br>
+              One way to celebrate Positive Deviance is to remember and honor the individuals who made it all possible. In this issue of the newsletter, we are starting a <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c; text-decoration:none">series of individual portrait profiles</a> with their reflections of what the Positive Deviance has meant for them and their thoughts on its future.
+              <br><br>
+              Our website continues to be updated with a <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c; text-decoration:none">new bibliography</a> with the latest articles and publications, a useful tool for the many researchers and academics.
+              <br><br>
+              For those eager to use or curious to explore the many faces of this powerful and transformative approach, you will find <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c; text-decoration:none">featured case studies</a> on the many ways and sectors this approach has been applied.
+              <br><br>
+              Most of all, the PD Collaborative invites you to <a href="https://positivedeviance.org" style="color:#7bb44c; text-decoration:none">share your thoughts and suggestions</a> on how to celebrate this special anniversary. 
+              <br><br>
+              Stay safe,
+              <br><br>
+              Monique Sternin<br>
+              <i>Co-founder, Positive Deviance Approach</i>
+              <br><br>
+              Linh Nguyen<br>
+              <i>Manager, Positive Deviance Website</i>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Save the Date -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa249fde7e0816ed04a896/1604986015758/30th+Anniversary+Logo+V.2.png" alt="PD 30th Anniversary Logo"></mj-image>
+            <mj-text>
+              <a href="https://positivedeviance.org" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Save the Date!</a>
+              <b>
+                <br><br>
+                Tuesday, 15 December 2020
+                <br>
+                10 AM - 12 PM EST
+                <br>
+                <a href="https://positivedeviance.org" style="color:#7bb44c;text-decoration:none">RSVP |</a>
+                <a href="https://positivedeviance.org/news" style="color:#7bb44c;text-decoration:none">Donate |</a>
+                <a href="https://positivedeviance.org" style="color:#7bb44c;text-decoration:none">Collaborate</a>
+              </b>
+              <br><br>
+              In this free, online event with live talks and discussions, we will celebrate 30 years of the Positive Deviance Approach improving lives around the world and discuss how to best use Positive Deviance for present and future challenges.
+              
+              <ul>
+                <li> Learn about the many examples of how Positive Deviance has benefited communities and organisations worldwide </li>
+                <li> Discuss academic research and how Positive Deviance should evolve to meet future needs</li>
+                <li> Gain practical tips for your own practice from leading practitioners across the globe</li>
+                <li> Share thoughts, try things, have fun!</li>
+              </ul>
+
+              <b>Get Involved:</b> Work with us to co-create the main event on 15th December, smaller self-organized events and follow-up projects. Share what you want to learn, how you can contribute, and other ideas in the collaborative Padlet. Follow us and share on social media for the latest updates.
+              <br><br>
+              <b>Donate:</b> The event planning work is pro bono and participation is free. However, we need funding for social media activities and for creating a professional short video that explains the Positive Deviance Approach. Click here to donate.
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Bibliography -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image href="http://publications.positivedeviance.org/bibliography/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa376394221021f4c2e911/1604990821899/Screen+Shot+2020-11-10+at+12.43.32+AM.png" alt="PD 30th Anniversary Logo"></mj-image>
+            <mj-text>
+              <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Official Positive Deviance Bibliography</a>
+              <br><br>
+              Discover the full library of publications on Positive Deviance with our new online bibliography!
+              <ul>
+                <li> Advanced search and filter options</li>
+                <li> Monthly updates with new publications</li>
+                <li> MLA citations provided</li>
+              </ul>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    
+
+    <!-- All Case Studies -->
+    <!-- Case Study -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image align="center" href="https://positivedeviance.org" src="https://miro.medium.com/max/1400/0*pqjY1m-Kvw4MHx30.png" alt="PD Logo"></mj-image>
+            <mj-text>
+              <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Official Positive Deviance Bibliography</a>
+              <br><br>
+              <i>Richard Heeks, Basma Albanna</i>
+            </mj-text>
+            <mj-text>
+              Nations around the world are struggling with their response to the Covid-19 pandemic, seeking guidance on what works best in terms of preventive measures, treatments, and public health, economic and other policies. Can data-powered positive deviance be used to improve the guidance being offered?
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+
+  </mj-body>
+</mjml>
