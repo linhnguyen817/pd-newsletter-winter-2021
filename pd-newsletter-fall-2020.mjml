@@ -1,9 +1,8 @@
 <mjml>
   <mj-head>
-      <mj-title>Positive Deviance Winter 2020</mj-title>
-      <mj-preview>Celebrate the 30th Anniversary of Positive Deviance</mj-preview>
+      <mj-title>Fall 2020 Newsletter: </mj-title>
+      <mj-preview>Celebrate the 30th Anniversary of Positive Deviance!</mj-preview>
       <mj-attributes>
-        <!-- <mj-text padding-bottom="0" /> -->
         <mj-class name="green" color="#7bb44c" />
         <mj-class name="h1" font-size="20px" />
         <mj-class name="h2" font-size="16px" />
@@ -13,10 +12,12 @@
 
   <mj-body>
     <!-- Alert Text Banner -->
-    <mj-section background-color="#ECECEC">
+    <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text mj-class="green" align="center" padding="0px 20px">
-          RSVP for the Positive Deviance 30th Anniversary Virtual Celebration Event!
+          <a href="https://positivedeviance.org/30th-anniversary-event-registration" style="color:#7bb44c;text-decoration:none;">
+            RSVP for the Positive Deviance 30th Anniversary Virtual Celebration Event!
+          </a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -41,9 +42,9 @@
     <mj-wrapper background-color="#ECECEC" padding="10px 40px">
       <mj-section background-color="#ffffff">
           <mj-column>
-            <mj-image href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa309c6f08616716ef1887/1604989084234/PDWorld+Map+1.png" alt="PD 30th Anniversary Logo"></mj-image>
+            <mj-image href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae223469c60d415b135e5c/1605247540677/World+Map+1.png" alt="PD Impact Map"></mj-image>
             <mj-text align="center">
-              <span href="https://positivedeviance.org" style="color:#7bb44c;font-size:16px;font-weight:bold">Fall 2020 Newsletter</span>
+              <span style="color:#7bb44c;font-size:16px;font-weight:bold">Fall 2020 Newsletter</span>
               <br><br>
               <i>CELEBRATING 30 YEARS OF SHARING AND SPREADING POSITIVE DEVIANCE</i>
             </mj-text>
@@ -52,15 +53,15 @@
               <br><br>
               In this period of unprecedented events from the Covid-19 pandemic to climate upheaval, we decided it was appropriate to look at the positive side of our humanity collective endeavor to erase disparities, embrace diversity and address the complex problems of our time by looking at what is working against the odds. The Positive Deviance approach does that in a powerful way.
               <br><br>
-              We are celebrating 30 years of Positive Deviance starting in December. You will find in this newsletter more details on the <a href="https://positivedeviance.org" style="color:#7bb44c; text-decoration:none">announcement and invitation</a> to a __ month virtual celebration with different ways you can participate in this event.
+              We are celebrating 30 years of Positive Deviance starting in December. You will find in this newsletter more details on the <a href="https://positivedeviance.org/30th-anniversary-event-registration" style="color:#7bb44c; text-decoration:none">announcement and invitation</a> to a virtual celebration with different ways you can participate in this event.
               <br><br>
-              One way to celebrate Positive Deviance is to remember and honor the individuals who made it all possible. In this issue of the newsletter, we are starting a <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c; text-decoration:none">series of individual portrait profiles</a> with their reflections of what the Positive Deviance has meant for them and their thoughts on its future.
+              One way to celebrate Positive Deviance is to remember and honor the individuals who made it all possible. In this issue of the newsletter, we are starting a <a href="https://positivedeviance.org/news/2020/11/14/fall-2020-featured-voices-from-the-field" style="color:#7bb44c; text-decoration:none">series of individual portrait profiles</a> with their reflections of what the Positive Deviance has meant for them and their thoughts on its future.
               <br><br>
               Our website continues to be updated with a <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c; text-decoration:none">new bibliography</a> with the latest articles and publications, a useful tool for the many researchers and academics.
               <br><br>
-              For those eager to use or curious to explore the many faces of this powerful and transformative approach, you will find <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c; text-decoration:none">featured case studies</a> on the many ways and sectors this approach has been applied.
+              For those eager to use or curious to explore the many faces of this powerful and transformative approach, you will find <a href="https://positivedeviance.org/news/2020/11/13/fall-2020-featured-publications" style="color:#7bb44c; text-decoration:none">featured case studies and publications</a> on the many ways and sectors this approach has been applied.
               <br><br>
-              Most of all, the PD Collaborative invites you to <a href="https://positivedeviance.org" style="color:#7bb44c; text-decoration:none">share your thoughts and suggestions</a> on how to celebrate this special anniversary. 
+              Most of all, the PD Collaborative invites you to <a href="https://padlet.com/positivedeviancecollaborative/bc5prr71kqgmob0g" style="color:#7bb44c; text-decoration:none">share your thoughts and suggestions</a> on how to celebrate this special anniversary. 
               <br><br>
               Stay safe,
               <br><br>
@@ -76,44 +77,167 @@
 
     <!-- Save the Date -->
     <mj-wrapper background-color="#ECECEC" padding="10px 40px">
-      <mj-section background-color="#ffffff">
-          <mj-column>
-            <mj-image href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa249fde7e0816ed04a896/1604986015758/30th+Anniversary+Logo+V.2.png" alt="PD 30th Anniversary Logo"></mj-image>
-            <mj-text>
-              <a href="https://positivedeviance.org" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Save the Date!</a>
-              <b>
-                <br><br>
-                Tuesday, 15 December 2020
-                <br>
-                10 AM - 12 PM EST
-                <br>
-                <a href="https://positivedeviance.org" style="color:#7bb44c;text-decoration:none">RSVP |</a>
-                <a href="https://positivedeviance.org/news" style="color:#7bb44c;text-decoration:none">Donate |</a>
-                <a href="https://positivedeviance.org" style="color:#7bb44c;text-decoration:none">Collaborate</a>
-              </b>
-              <br><br>
-              In this free, online event with live talks and discussions, we will celebrate 30 years of the Positive Deviance Approach improving lives around the world and discuss how to best use Positive Deviance for present and future challenges.
-              
-              <ul>
-                <li> Learn about the many examples of how Positive Deviance has benefited communities and organisations worldwide </li>
-                <li> Discuss academic research and how Positive Deviance should evolve to meet future needs</li>
-                <li> Gain practical tips for your own practice from leading practitioners across the globe</li>
-                <li> Share thoughts, try things, have fun!</li>
-              </ul>
+      <mj-section background-color="#ffffff" padding-bottom="0px">
+        <mj-column>
+          <mj-image href="https://positivedeviance.org/30th-anniversary-event-registration" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa249fde7e0816ed04a896/1604986015758/30th+Anniversary+Logo+V.2.png" alt="PD 30th Anniversary Logo"></mj-image>
+          
+          <mj-text>
+            <a href="https://positivedeviance.org/30th-anniversary-event-registration" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Save the Date!</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
 
-              <b>Get Involved:</b> Work with us to co-create the main event on 15th December, smaller self-organized events and follow-up projects. Share what you want to learn, how you can contribute, and other ideas in the collaborative Padlet. Follow us and share on social media for the latest updates.
-              <br><br>
-              <b>Donate:</b> The event planning work is pro bono and participation is free. However, we need funding for social media activities and for creating a professional short video that explains the Positive Deviance Approach. Click here to donate.
-            </mj-text>
-          </mj-column>
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column width="65%">
+          <mj-text>
+            <b>
+              Tuesday, 15 December 2020
+              <br>
+              9 AM EST (NYC) &nbsp&nbsp | &nbsp&nbsp&nbsp 2 PM GMT (London)
+              <br>9 PM WIB (Jakarta) &nbsp | &nbsp 11 PM JST (Tokyo)
+            </b>
+          </mj-text>
+        </mj-column>
+        <mj-column width="35%">
+          <mj-button font-weight="bold" background-color="#7bb44c" color="white" href="https://positivedeviance.org/30th-anniversary-event-registration">
+            RSVP
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column>
+          <mj-text>
+            In this two-hour, virtual event, we will celebrate 30 years of the Positive Deviance Approach improving lives around the world and discuss how to best use Positive Deviance for present and future challenges. A recording of the live event will be shared on our website after the event.
+            
+            <ul>
+              <li> Learn about the many examples of how Positive Deviance has benefited communities and organisations worldwide </li>
+              <li> Discuss academic research and how Positive Deviance should evolve to meet future needs</li>
+              <li> Gain practical tips for your own practice from leading practitioners across the globe</li>
+              <li> Share thoughts, try things, have fun!</li>
+            </ul>
+
+            <b>Co-Create with Us:</b> Work with us to co-create the main event on 15th December, smaller self-organized events, and follow-up projects. <a href="https://padlet.com/positivedeviancecollaborative/bc5prr71kqgmob0g" style="color:#7bb44c;text-decoration:none;">Share in the collaborative Padlet</a> what you want to learn, how you can contribute, and other ideas. Follow us and share on social media for the latest updates.
+            <br><br>
+            <b>Donate:</b> The event planning work is pro bono and participation is free. However, we need funding for social media activities and a professional short video that explains the Positive Deviance Approach. If you would like to help support these efforts, please <a href="https://www.gofundme.com/f/positive-deviance-past-present-future" style="color:#7bb44c;text-decoration:none;"> click to donate to our GoFundMe.</a>
+          </mj-text>
+        </mj-column>
       </mj-section>
     </mj-wrapper>
 
+    <!-- Voices from the Field -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px 0px 40px">
+      <mj-section background-color="#ffffff" padding-bottom="0">
+        <mj-column>
+          <mj-text>
+            <a href="https://positivedeviance.org/news/2020/11/14/fall-2020-featured-voices-from-the-field" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Voices from the Field</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Profile: Jerry -->
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-text>
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/jerry-sternin" style="color:#000000;font-size:16px;text-decoration:none;font-weight:bold">Jerry Sternin</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column>
+          <mj-image width="200px" href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/jerry-sternin" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faf30a916932f1df5f30c07/1605316781352/Screen+Shot+2020-11-13+at+7.03.55+PM.png" alt="Jerry Sternin"></mj-image>
+          <mj-text>
+            Jerry Sternin (1938-2008) is regarded as the founder of the Positive Deviance approach. An international development practitioner, Jerry served the Peace Corps for eight years in the Philippines, Nepal, Mauritania and Rwanda, and 16 years as a Save the Children Director in Vietnam, Bangladesh, Egypt, Philippines, and Myanmar. Thanks to Jerry’s passion for this behavior and social change approach and his exceptional communication and training skills, the PD approach has been applied in over 60 countries around the world.
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/jerry-sternin" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Profile: Richard -->
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-text>
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/richard-pascale-the-people-who-help-develop-and-co-create-the-positive-deviance-approach" style="color:#000000;font-size:16px;text-decoration:none;font-weight:bold">Richard Pascale</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column>
+          <mj-image width="250px" href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/richard-pascale-the-people-who-help-develop-and-co-create-the-positive-deviance-approach" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faf30be2bb93a1ea2bb2b9e/1605316807960/Screen+Shot+2020-11-13+at+6.55.54+PM.png" alt="Richard Pascale"></mj-image>
+          <mj-text>
+            Richard was instrumental in negotiating the funding of the PD nutrition Viet Nam project with British Petroleum (BP) for the INGO, Save the Children in the late 1980’s. He championed the use of the PD approach in business via his yearly course at the Oxford Said Business School and at many other venues and platforms. Over the decades, he provided his full and steadfast support to the PD Initiative and was instrumental in making the PD approach part of the mainstream behavior and social change approaches.
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/richard-pascale-the-people-who-help-develop-and-co-create-the-positive-deviance-approach" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Profile: Gretchen -->
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-text>
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/gretchen-berggren" style="color:#000000;font-size:16px;text-decoration:none;font-weight:bold">Gretchen Berggren</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column>
+          <mj-image width="250px" href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/gretchen-berggren" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faf679644e8212553f26ce3/1605330839727/Screen+Shot+2020-11-13+at+6.11.08+PM.png" alt="Gretchen Berggren"></mj-image>
+          <mj-text>
+            Gretchen Berggren has dedicated most of her life to children survival in the developing world and especially in Haiti. She was a health advisor at Save the Children when she introduced the Sternins to the work of Marian Zietlin and others on the use of Positive Deviance in Child nutrition. In Viet Nam, she provided invaluable advice and coaching on growth monitoring and other technical aspects of childhood nutrition.
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/gretchen-berggren" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Profile: Muhammad -->
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-text>
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/muhammad-shafique" style="color:#000000;font-size:16px;text-decoration:none;font-weight:bold">Muhammad Shafique</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column>
+          <mj-image width="200px" href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/muhammad-shafique" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faf69fa69c60d415b3fb896/1605331450407/cropped-shafique.jpg" alt="Muhammad Shafique"></mj-image>
+          <mj-text>
+            Muhammad Shafique is a sociologist with 20 years of experience in social and behavior change communication (SBCC). His aspiration is to bring about positive social and behavioral changes to improve the quality of life for all community members. Shafique’s encounter with Positive Deviance started in his home country Pakistan in the North East Region in 2001. He has applied the PD approach to maternal and newborn health, malaria prevention and control, dengue control, and polio eradication in Pakistan, Cambodia, Thailand and Myanmar.
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/muhammad-shafique" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <!-- Profile: David -->
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+        <mj-column>
+          <mj-text>
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/david-gasser-reflections-on-positive-deviance" style="color:#000000;font-size:16px;text-decoration:none;font-weight:bold">David Gasser</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px">
+        <mj-column>
+          <mj-image width="200px" href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/david-gasser-reflections-on-positive-deviance" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faf6c5408f95b782a639f60/1605332052316/David+Gasser.jpg" alt="Muhammad Shafique"></mj-image>
+          <mj-text>
+            David Gasser is a free lance consultant who has been involved with the Positive Deviance Approach for over 17 years. He first encountered the approach through Jerry Sternin in Mexico in 2003, working on the PD Merk project. His sector of expertise with the PD include the private sector, public agencies, health care, and education in the US, Puerto Rico and a few countries in Latin America. David also volunteered many days working with the PD Initiative in PD training design and facilitation. Here, David reflects on his journey with Positive Deviance.
+            <a href="https://positivedeviance.org/voices-from-the-field-all/2020/11/13/david-gasser-reflections-on-positive-deviance" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+    
+
     <!-- Bibliography -->
-    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px 0px 40px">
       <mj-section background-color="#ffffff">
           <mj-column>
-            <mj-image href="http://publications.positivedeviance.org/bibliography/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa376394221021f4c2e911/1604990821899/Screen+Shot+2020-11-10+at+12.43.32+AM.png" alt="PD 30th Anniversary Logo"></mj-image>
+            <mj-image href="http://publications.positivedeviance.org/bibliography/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5faa376394221021f4c2e911/1604990821899/Screen+Shot+2020-11-10+at+12.43.32+AM.png" alt="Bibliography"></mj-image>
             <mj-text>
               <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Official Positive Deviance Bibliography</a>
               <br><br>
@@ -128,25 +252,158 @@
       </mj-section>
     </mj-wrapper>
     
-
     <!-- All Case Studies -->
     <!-- Case Study -->
     <mj-wrapper background-color="#ECECEC" padding="10px 40px">
       <mj-section background-color="#ffffff">
           <mj-column>
-            <mj-image align="center" href="https://positivedeviance.org" src="https://miro.medium.com/max/1400/0*pqjY1m-Kvw4MHx30.png" alt="PD Logo"></mj-image>
+            <mj-image align="center" href="https://positivedeviance.org/case-studies-all/2020/11/2/using-positive-deviance-to-grow-educational-success-in-hawaiis-immigrant-groups" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae338fff73a225b271fc66/1605251985346/image--001.png" alt="Hawaii Case Study Cover Photo"></mj-image>
             <mj-text>
-              <a href="http://publications.positivedeviance.org/bibliography/" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Official Positive Deviance Bibliography</a>
-              <br><br>
-              <i>Richard Heeks, Basma Albanna</i>
+              <span style="font-size:11px;"> Featured Case Study: Hawaii</span><br>
+              <a href="https://positivedeviance.org/case-studies-all/2020/11/2/using-positive-deviance-to-grow-educational-success-in-hawaiis-immigrant-groups" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Using Positive Deviance to Grow Educational Success in Hawaii’s Immigrant Groups</a>
+              <br>
+              <i>
+                By: Christina Simmons
+              </i>
             </mj-text>
             <mj-text>
-              Nations around the world are struggling with their response to the Covid-19 pandemic, seeking guidance on what works best in terms of preventive measures, treatments, and public health, economic and other policies. Can data-powered positive deviance be used to improve the guidance being offered?
+              Using the PD approach, the Family Center of an NGO in Hawaii decided to focus on the strengths, assets, and resourcefulness of the Native Micronesian families and launched the Sundays Project, turning the educational tide. As a result, Native Micronesian families are now deeply engaged in, and contributing to, their children’s academic success.
+              <a href="https://positivedeviance.org/case-studies-all/2020/11/2/using-positive-deviance-to-grow-educational-success-in-hawaiis-immigrant-groups" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
             </mj-text>
           </mj-column>
       </mj-section>
     </mj-wrapper>
 
+    <!-- Case Study -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-image align="center" href="https://positivedeviance.org/case-studies-all/2020/11/12/uk-the-oxmoor-grub-hub" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae34d9162257496b453a79/1605252313245/Frame+3.png" alt="Grub Hub Case Study Cover Photo"></mj-image>
+            <mj-text>
+              <span style="font-size:11px;"> Featured Case Study: United Kingdom</span><br>
+              <a href="https://positivedeviance.org/case-studies-all/2020/11/12/uk-the-oxmoor-grub-hub" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">The Oxmoor Grub Hub</a>
+              <br>
+              <i>
+                By: Jane Lewis
+              </i>
+            </mj-text>
+            <mj-text>
+              The Grub Hub was a place where parents could go with their children after the school run, where they are all provided with a hot meal and can relax and socialise together. The Grub Hub emerged as a project following Positive Deviance training in 2014 in Cambridgeshire and ultimately provided invaluable support to local families.
+              <a href="https://positivedeviance.org/case-studies-all/2020/11/12/uk-the-oxmoor-grub-hub" style="color:#7bb44c;text-decoration:none;">Click to read more →</a>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Featured Publications -->
+    <mj-wrapper background-color="#ECECEC" padding="10px 40px">
+      <mj-section background-color="#ffffff">
+          <mj-column>
+            <mj-text>
+              <a href="https://positivedeviance.org/news/2020/11/13/fall-2020-featured-publications" style="color:#7bb44c;font-size:16px;text-decoration:none;font-weight:bold">Featured Publications</a>
+            </mj-text>
+
+            <mj-text padding-top="0">
+              <ul>
+                <!-- Publication -->
+                <li>
+                  <a href="https://medium.com/@dppd/positive-deviance-a-data-powered-approach-to-the-covid-19-response-aced5277099f" style="color:#7bb44c;text-decoration:none;">Positive Deviance: A Data-Powered Approach to the Covid-19 Response</a>
+                  <br><i>
+                  By: Richard Heeks and Basma Albanna, Centre for Digital Development, University of Manchester
+                  </i>
+                </li>
+                <br>
+
+                <!-- Publication -->
+                <li>
+                  <a href="https://medium.com/@dppd/positive-deviance-positive-outliers-matter-273ffb84608" style="color:#7bb44c;text-decoration:none;">Positive Deviance: Positive Outliers Matter</a>
+                  <br><i>
+                  By: Jeremy Boy, Data Scientist, UNDP Accelerator Labs together with Andreas Gluecker, Project Manager, GIZ Data Lab
+                  </i>
+                </li>
+                <br>
+
+                <!-- Publication -->
+                <li>
+                  <a href="http://publications.positivedeviance.org/bibliography/?all=Outbreak%20Detection—A%20Generic%20Model%20and%20Novel%20Methodology%20to%20Guide%20Earlier%20Detection%20Supported%20by%20Data%20From%20Low-%20and%20Mid-Income%20Countries&page=1&page-len=1&sort=score" style="color:#7bb44c;text-decoration:none;">Earlier Outbreak Detection—A Generic Model and Novel Methodology to Guide Earlier Detection Supported by Data From Low- and Mid-Income Countries</a>
+                  <br><i>
+                  By: Lindsay Steele, Emma Orefuwa, and Silvia Bino
+                  </i>
+                </li>
+                <br>
+
+                <!-- Publication -->
+                <li>
+                  <a href="http://publications.positivedeviance.org/bibliography/?all=Positive%20Deviance%20for%20Dual-Method%20Promotion%20among%20Women%20in%20Uganda%3A%20A%20Qualitative%20Study&page=1&page-len=1&sort=score" style="color:#7bb44c;text-decoration:none;">Positive Deviance for Dual-Method Promotion among Women in Uganda: A Qualitative Study</a>
+                  <br><i>
+                  By: Hodaka Kosugi, Akira Shibanuma, Junko Kiriya, Ken Ing Cherng Ong, Stephen Mucunguzi, Conrad Muzoora, and Masamine Jimba
+                  </i>
+                </li>
+              </ul>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Contribute -->
+    <mj-wrapper background-color="#ECECEC" padding="0px 35px">
+      <mj-section padding="10px 0 0 0">
+          <mj-column>
+            <mj-text>
+            <i>
+              With the launch of the new official Positive Deviance Collaborative website in 2017, there continues to be development and updates on all parts of the website. We work to create a space where members of the PD community can contribute and connect with one another. 
+              <br><br>
+              Support our work by making a <a href="https://positivedeviance.org/donate" style="text-decoration:none; color:#7bb44c">donation</a>.
+              Have suggestions or feedback? Email us at <a href="mailto:positivedevianceteam@gmail.com" style="text-decoration:none; color:#7bb44c">positivedevianceteam@gmail.com</a> or reply to this email.
+            </i>
+            </mj-text>
+          </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- Footer -->
+    <mj-wrapper background-color="#ECECEC" padding="0px 15px">
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+
+      <!-- PD Logo -->
+      <mj-section padding-top="0">
+        <mj-column>
+            <mj-image width="55px" href="https://positivedeviance.org" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae39bf1cc5cc66225b31be/1605253578489/pd_logo.png" alt="PD Logo" padding-bottom="0px" padding-top="10px"></mj-image>
+        </mj-column>
+      </mj-section>
+
+      <!-- Social Media -->
+      <mj-section padding="0px 20px">
+        <mj-group>
+          <mj-column>
+            <mj-image width="18px" href="https://www.facebook.com/PositiveDeviance/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92bc54d7bd32badc3b03/1605276348541/facebook-2.png" alt="PD Facebook"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image width="18px" href="https://www.youtube.com/channel/UCjUrIC_cl1T3_Sh5f1j7acg/playlists?view_as=subscriber" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92ce08f95b782a4154cc/1605276366347/youtube-2.png" alt="PD Youtube"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image width="18px" href="https://www.linkedin.com/company/positive-deviance-collaborative/" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92c1f8f3f141908e0ede/1605276353417/linkedin-3.png" alt="PD LinkedIn"></mj-image>
+          </mj-column>
+          <mj-column>
+            <mj-image width="18px" href="https://twitter.com/PD_Collab" src="https://static1.squarespace.com/static/5a1eeb26fe54ef288246a688/t/5fae92c99a1aef48f645540e/1605276361203/twitter-2.png" alt="PD Twitter"></mj-image>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <!-- Unsubscribe -->
+      <mj-section padding-bottom="30px">
+        <mj-column>
+          <mj-text font-size="10px" color="grey" align="center">
+            If you prefer not to receive these emails, you can 
+            <a href="https://positivedeviance.org/unsubscribe" style="color:#7bb44c;text-decoration:none;">unsubscribe</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
 
   </mj-body>
 </mjml>
